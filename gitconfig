@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lil712@hotmail.com
+	name = Lilian Li
